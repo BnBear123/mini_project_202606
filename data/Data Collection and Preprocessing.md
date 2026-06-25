@@ -15,4 +15,4 @@
   - 무료 등급이다 보니 사용 제한이 걸림
   - 무엇보다 툭하면 503 UNAVAILABLE 가 떠서 생성 불가능할 때가 많음
 - chromadb 이해 부족으로 아래 코드 때문에 재적재
-  `collection.delete(ids=existing_ids)` 
+- `collection.delete(ids=existing_ids)` 
